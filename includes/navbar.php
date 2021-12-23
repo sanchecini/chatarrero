@@ -12,7 +12,7 @@
             Nav header start
         ***********************************-->
         <div class="nav-header">
-            <a href="http://localhost/admin2/index.php" class="brand-logo">
+            <a href="http://localhost/chatarrero/index.php" class="brand-logo">
                 <img class="logo-abbr" src="images/camion.png" alt="">
                 <img class="logo-compact" src="images/letras.png" alt="">
                 <img class="brand-title" src="images/letras.png" alt="">
@@ -119,8 +119,8 @@
 							<span class="nav-text">Ventas</span>
 						</a>
                         <ul aria-expanded="false">
-							<li><a href="http://localhost/admin2/seccion/ventas/addventa.php">Agregar venta</a></li>
-							<li><a href="http://localhost/admin2/seccion/ventas/index.php">Historial de ventas</a></li>
+							<li><a href="http://localhost/chatarrero/seccion/ventas/addventa.php">Agregar venta</a></li>
+							<li><a href="http://localhost/chatarrero/seccion/ventas/index.php">Historial de ventas</a></li>
 							
 						</ul>
                     </li>
@@ -129,8 +129,8 @@
 							<span class="nav-text">Compras</span>
 						</a>
                         <ul aria-expanded="false">
-                        <li><a href="http://localhost/admin2/seccion/compras/addcompra.php">Agregar compra</a></li>
-                        <li><a href="http://localhost/admin2/seccion/compras/index.php">Historial de compras</a></li>
+                        <li><a href="http://localhost/chatarrero/seccion/compras/addcompra.php">Agregar compra</a></li>
+                        <li><a href="http://localhost/chatarrero/seccion/compras/index.php">Historial de compras</a></li>
                             </ul>
                      </li>
                      <li><a class="has-arrow ai-icon" href="javascript:void()" aria-expanded="false">
@@ -138,13 +138,13 @@
 							<span class="nav-text">Materiales</span>
 						</a>
                         <ul aria-expanded="false">
-                            <li><a href="http://localhost/admin2/seccion/materiales/index.php">Materiales</a></li>
-                            <li><a href="http://localhost/admin2/seccion/materiales/precios.php">Precio por cliente</a></li>
+                            <li><a href="http://localhost/chatarrero/seccion/materiales/index.php">Materiales</a></li>
+                            <li><a href="http://localhost/chatarrero/seccion/materiales/precios.php">Precio por cliente</a></li>
                           
                         </ul>
                     </li>
 
-                    <li><a href="http://localhost/admin2/seccion/clientes/index.php" class="ai-icon" aria-expanded="false">
+                    <li><a href="http://localhost/chatarrero/seccion/clientes/index.php" class="ai-icon" aria-expanded="false">
 							<i class="flaticon-381-settings-2"></i>
 							<span class="nav-text">Clientes</span>
 						</a>
@@ -155,7 +155,7 @@
 							<span class="nav-text">Empresa</span>
 						</a>
                         <ul aria-expanded="false">
-                            <li><a href="http://localhost/admin2/seccion/empresa/index.php">Datos de empresa</a></li>
+                            <li><a href="http://localhost/chatarrero/seccion/empresa/index.php">Datos de empresa</a></li>
                             <li><a href="#">Choferes</a></li>
                             <li><a href="#">Vehiculos</a></li>
                             

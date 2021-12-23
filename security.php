@@ -14,6 +14,6 @@ else
 }
 
 if(!$_SESSION['username']){
-    header('Location: http://localhost/admin2/login.php');
+    header('Location: http://localhost/chatarrero/login.php');
 }
 ?>
